@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! I'm Maxence 👋
 
-<!--
-**maxenceprohub/maxenceprohub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer & AI Researcher**
 
-Here are some ideas to get you started:
+🔭 **Currently working on:** Accelerating local knowledge retrieval using **Rust** and **Python** (Project: Mini-Brain)
+🌱 **I’m learning:** Memory safety in Rust and advanced RAG (Retrieval-Augmented Generation) architectures
+💬 **Reach out if:** You are building open-source AI tools, or if you have a complex problem that needs a high-performance solution!
+⚡ **Goal:** Pushing the boundaries of what's possible with small-scale LLMs and optimized systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Languages:** Python, Rust, HTML/CSS
+- **Specialties:** AI Agents, Performance Optimization, Logic & Algorithms
