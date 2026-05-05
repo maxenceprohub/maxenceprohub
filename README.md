@@ -1,104 +1,79 @@
 # 👋 Hey, I'm Maxence
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Progress;AI+Researcher;Rust+%E2%9A%A1+Performance+Enthusiast;Building+Mini-Brain+%F0%9F%A7%A0" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress;AI+Researcher;Rust+%E2%9A%A1+Performance+Focused;Building+Mini-Brain+%F0%9F%A7%A0" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🧠 Building **Mini-Brain** → local-first AI knowledge system
-* ⚡ Focused on **performance, optimization & low-level control**
-* 🤖 Passionate about **AI systems & efficient LLM pipelines**
-* 🛠 I like solving **complex problems with simple, fast solutions**
+* 🧠 Building **Mini-Brain** → local AI knowledge system
+* ⚡ Focused on **performance & optimization**
+* 🤖 Interested in **AI systems & RAG architectures**
+* 🛠 I enjoy solving complex problems efficiently
 
 ---
 
-## 🔬 Current Focus
+## 🔬 Current Work
 
 ```diff
-+ Mini-Brain → ultra-fast RAG system
-+ Rust for performance-critical code
-+ Advanced retrieval architectures
-+ Local AI inference optimization
++ Mini-Brain → fast local retrieval system
++ Rust for performance-critical components
++ Advanced RAG pipelines
 ```
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=python,rust,html,css,git,linux" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat\&logo=rust\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white)
 
 </p>
 
 ---
 
-## 🧠 Expertise
+## 🧠 Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-000?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Performance%20Optimization-000?style=for-the-badge&logo=rust" />
-  <img src="https://img.shields.io/badge/Algorithms-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Information%20Retrieval-000?style=for-the-badge" />
-</p>
+* AI Agents
+* Performance Optimization
+* Algorithms & Problem Solving
+* Information Retrieval
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
 </p>
 
 ---
 
 ## ⚡ Vision
 
-> Push the limits of **small-scale LLMs**
-> Build **fast, local-first AI systems**
-> Make AI more **efficient and accessible**
+> Build fast, efficient, and local-first AI systems
+> Push small-scale LLMs to their limits
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Contact
 
-* 💬 Open-source AI projects
-* ⚡ Performance-heavy challenges
-* 🧪 Experimental systems
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250"/>
-</p>
+* Open to AI & performance-related projects
+* Interested in building efficient systems
 
 ---
