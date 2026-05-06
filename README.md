@@ -1,68 +1,69 @@
 <div align="center">
-  <h1>🌌 Maxence Munoz</h1>
-  <p><strong>13-year-old Full-Stack Developer | AI Performance & Infrastructure</strong></p>
 
-  <img src="https://img.shields.io/badge/Age-13-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Age" />
-  <img src="https://img.shields.io/badge/Status-Building_Zenith_Engine-orange?style=for-the-badge" alt="Status" />
+# 🌌 Maxence Munoz
+### *Full-Stack Engineer · AI Systems & Infrastructure*
+
+<img src="https://img.shields.io/badge/Focus-High_Performance_Systems-0A192F?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Stack-Rust%20%7C%20Python%20%7C%20Cloud-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Building_Zenith_Engine-FF6A00?style=for-the-badge" />
+
 </div>
 
 ---
 
-### 🚀 Executive Summary
-Entrepreneur and developer focused on high-performance systems. I bridge the gap between low-level efficiency and high-level AI logic. I don't just write scripts; I architect production-ready environments.
+## 🚀 Overview
 
-- 🛠️ **Current Focus:** Optimizing data ingestion engines with **Python** and **Rust**.
-- 🧠 **Tech Philosophy:** Memory safety, speed, and clean code architecture.
-- 🎯 **Goal:** Building independent SaaS infrastructures and AI-driven tools.
+Engineer focused on **performance-critical systems** and **AI-driven infrastructures**.  
+I design and build scalable architectures where **efficiency, reliability, and clarity** are first-class priorities.
 
----
-
-### 🛠️ Technical Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center" width="200"><strong>Languages</strong></td>
-    <td align="center" width="200"><strong>Backend & Cloud</strong></td>
-    <td align="center" width="200"><strong>Tools & Workflow</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,rust,html,css,js&theme=dark" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=supabase,postgres,docker,vercel&theme=dark" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,linux&theme=dark" />
-    </td>
-  </tr>
-</table>
+- ⚡ **Specialization:** High-performance data pipelines & backend systems  
+- 🧠 **Approach:** Low-level optimization meets intelligent automation  
+- 🏗️ **Current Work:** Zenith Engine — next-gen data ingestion & processing system  
+- 🎯 **Objective:** Build independent, production-grade SaaS ecosystems  
 
 ---
 
-### 📊 Engineering Metrics
-<div align="center">
-  <!-- Stats de contributions et langages (Remplace TON_PSEUDO par ton pseudo GitHub) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
----
-
-### 📬 Connect with Me
-I am always open to discussing architecture, performance, or collaboration on ambitious projects.
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://discord.com/users/TON_ID_DISCORD">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:maxencemunozpro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/TON_PSEUDO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+| Core Languages | Backend & Infra | Workflow |
+|----------------|----------------|----------|
+| Python · Rust · JavaScript | PostgreSQL · Supabase · Docker · Vercel | Git · Linux · VS Code |
+
 </div>
 
-<br>
-<p align="center"><i>"Code is poetry, but performance is reality."</i></p>
+---
+
+## 📊 Engineering Metrics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF7B72" />
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+## ⚡ Live Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TON_PSEUDO&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TON_PSEUDO&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🧩 System Philosophy
+
+```text
+Performance > Abstraction
+Clarity > Complexity
+Reliability > Hype
