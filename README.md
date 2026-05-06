@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=640&height=55&lines=Full-Stack+Developer+%7C+AI+Performance+Architect;%22Execution+beats+theory.+Always.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=640&height=55&lines=Full-Stack+Developer+%7C+Systems+%26+AI+Enthusiast;Building+high-performance+tools+from+scratch.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,9 +40,8 @@ pub struct Developer {
     pub name:     &'static str,      // Maxence Munoz
     pub age:      u8,                // 13
     pub location: &'static str,      // France 🇫🇷
-    pub role:     &'static str,      // Full-Stack Dev · AI Performance Architect
-    pub mission:  &'static str,      // Exit the traditional path via code & entrepreneurship
-    pub traits:   [&'static str; 4],
+    pub role:     &'static str,      // Full-Stack Dev · Systems & AI Enthusiast
+    pub focus:    [&'static str; 4],
 }
 
 impl Developer {
@@ -51,13 +50,12 @@ impl Developer {
             name:     "Maxence Munoz",
             age:      13,
             location: "France 🇫🇷",
-            role:     "Full-Stack Dev · AI Performance Architect",
-            mission:  "Exit the traditional path via code & entrepreneurship.",
-            traits: [
-                "Scalability over shortcuts",
-                "Memory safety matters",
-                "Ship real things, not demos",
-                "The grind is the strategy",
+            role:     "Full-Stack Dev · Systems & AI Enthusiast",
+            focus: [
+                "Performance-first design",
+                "Memory safety & ownership",
+                "Building real tools, not demos",
+                "Learning systems programming seriously",
             ],
         }
     }
@@ -68,9 +66,9 @@ impl Developer {
 
 <br/>
 
-> 13 years old. Building production-grade tools, studying systems programming,  
-> and obsessing over **performance** and **clean architecture**.  
-> My goal isn't to pass exams — **it's to build things that matter.**
+> 13 years old. I build production-oriented tools, study systems programming,  
+> and care deeply about **performance** and **clean architecture**.  
+> I focus on building **real-world systems** alongside my studies.
 
 <br/>
 
@@ -171,12 +169,17 @@ zenith_engine = {
     "type":         "Document Indexing Engine",
     "architecture": "Hybrid — Python (API / Logic) + Rust (Compute Core)",
     "features": [
-        "Massive file scanning at scale",
+        "Large-scale file scanning",
         "Unstructured data analysis",
-        "LLM-ready — built natively for RAG pipelines",
+        "LLM-ready — designed for RAG pipelines",
     ],
-    "philosophy": "Real performance. Real scale. Zero compromises.",
-    "status":     "🔧  Active Development",
+    # Early benchmarks (in progress — will be updated as the project matures)
+    "benchmarks": {
+        "target_indexing_speed": "100k files in < 10s",
+        "memory_target":         "< 150 MB at scale",
+        "comparison":            "Aiming to match ripgrep-level throughput",
+    },
+    "status": "🔧  Active Development",
 }
 ```
 
@@ -185,6 +188,10 @@ zenith_engine = {
 ![Python](https://img.shields.io/badge/Python-API_Layer-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-Compute_Core-CE422B?style=flat-square&logo=rust&logoColor=white&labelColor=0d1117)&nbsp;
 ![Status](https://img.shields.io/badge/Status-In_Development-f0a500?style=flat-square&labelColor=0d1117)
+
+<br/>
+
+*Benchmarks and a CLI demo will be published as the project reaches a stable milestone.*
 
 <br/>
 
@@ -201,9 +208,9 @@ zenith_engine = {
 ```
   ╔═════════════════════════════════════════════════════════════════════╗
   ║                                                                     ║
-  ║   01 · PRECOCITY                                                    ║
-  ║        Tackling Rust, memory ownership & systems architecture       ║
-  ║        at 13. The curve is steep. I'm climbing anyway.              ║
+  ║   01 · EARLY START                                                  ║
+  ║        Learning Rust, memory ownership & systems programming        ║
+  ║        at 13. Slow is smooth, smooth is fast.                       ║
   ║                                                                     ║
   ║   02 · HONESTY                                                      ║
   ║        I know what I know. I know what I don't.                     ║
@@ -211,11 +218,11 @@ zenith_engine = {
   ║                                                                     ║
   ║   03 · PRODUCTION MINDSET                                           ║
   ║        Typed. Documented. Clean. Built to last —                    ║
-  ║        not to impress, but to actually work.                        ║
+  ║        because maintainability is part of the work.                 ║
   ║                                                                     ║
-  ║   04 · ENTREPRENEURIAL DRIVE                                        ║
-  ║        Solving real performance problems. Not homework.             ║
-  ║        Every project is a product, not an exercise.                 ║
+  ║   04 · REAL PROBLEMS                                                ║
+  ║        Interested in performance bottlenecks, indexing at           ║
+  ║        scale, and AI tooling — not just tutorial projects.          ║
   ║                                                                     ║
   ╚═════════════════════════════════════════════════════════════════════╝
 ```
@@ -248,7 +255,7 @@ zenith_engine = {
 
 <br/>
 
-*13 years old · Full focus · Long game.*
+*13 years old · Learning seriously · Building for real.*
 
 `Python · Rust · Systems · AI`
 
