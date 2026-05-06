@@ -1,79 +1,21 @@
-# 👋 Hey, I'm Maxence
+# 🚀 Zenith-Indexer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress;AI+Researcher;Rust+%E2%9A%A1+Performance+Focused;Building+Mini-Brain+%F0%9F%A7%A0" />
-</p>
+[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org)
+[![Rust](https://img.shields.io/badge/Rust-2024-orange.svg)](https://www.rust-lang.org)
 
----
+**Zenith-Indexer** is an intelligent file indexing system designed for speed and modularity. It bridges the gap between Python's AI ecosystem and Rust's memory safety and performance.
 
-## 🚀 About Me
+## ✨ Key Features
+- **Smart Scanning:** Recursively indexes text, PDF, and Markdown files.
+- **Hybrid Architecture:** Core performance-critical tasks handled in Rust.
+- **AI-Ready:** Seamless integration with LLMs for document summarization.
+- **Error Resilient:** Built-in fault tolerance for corrupted or locked files.
 
-* 🧠 Building **Mini-Brain** → local AI knowledge system
-* ⚡ Focused on **performance & optimization**
-* 🤖 Interested in **AI systems & RAG architectures**
-* 🛠 I enjoy solving complex problems efficiently
+## 🏗️ Architecture
 
----
 
-## 🔬 Current Work
-
-```diff
-+ Mini-Brain → fast local retrieval system
-+ Rust for performance-critical components
-+ Advanced RAG pipelines
-```
-
----
-
-## 🛠 Tech Stack
-
-<p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat\&logo=rust\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white)
-
-</p>
-
----
-
-## 🧠 Skills
-
-* AI Agents
-* Performance Optimization
-* Algorithms & Problem Solving
-* Information Retrieval
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" height="150"/>
-</p>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
-</p>
-
----
-
-## ⚡ Vision
-
-> Build fast, efficient, and local-first AI systems
-> Push small-scale LLMs to their limits
-
----
-
-## 🤝 Contact
-
-* Open to AI & performance-related projects
-* Interested in building efficient systems
-
----
+## 🛠️ Installation & Usage
+```bash
+git clone [https://github.com/ton-pseudo/zenith-indexer](https://github.com/ton-pseudo/zenith-indexer)
+pip install -r requirements.txt
+python main.py --scan ./my_docs
