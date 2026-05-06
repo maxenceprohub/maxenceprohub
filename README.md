@@ -3,17 +3,17 @@
 <br/>
 
 ```
-███╗   ███╗ █████╗ ██╗  ██╗███████╗███╗   ██╗ ██████╗███████╗
-████╗ ████║██╔══██╗╚██╗██╔╝██╔════╝████╗  ██║██╔════╝██╔════╝
-██╔████╔██║███████║ ╚███╔╝ █████╗  ██╔██╗ ██║██║     █████╗  
-██║╚██╔╝██║██╔══██║ ██╔██╗ ██╔══╝  ██║╚██╗██║██║     ██╔══╝  
-██║ ╚═╝ ██║██║  ██║██╔╝ ██╗███████╗██║ ╚████║╚██████╗███████╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+  ███╗   ███╗  █████╗  ██╗  ██╗ ███████╗ ███╗   ██╗  ██████╗ ███████╗
+  ████╗ ████║ ██╔══██╗ ╚██╗██╔╝ ██╔════╝ ████╗  ██║ ██╔════╝ ██╔════╝
+  ██╔████╔██║ ███████║  ╚███╔╝  █████╗   ██╔██╗ ██║ ██║      █████╗  
+  ██║╚██╔╝██║ ██╔══██║  ██╔██╗  ██╔══╝   ██║╚██╗██║ ██║      ██╔══╝  
+  ██║ ╚═╝ ██║ ██║  ██║ ██╔╝ ██╗ ███████╗ ██║ ╚████║ ╚██████╗ ███████╗
+  ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═══╝  ╚═════╝ ╚══════╝
 ```
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=55&lines=Full-Stack+Developer+%7C+AI+Performance+Architect;%22Execution+beats+theory.+Always.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=640&height=55&lines=Full-Stack+Developer+%7C+AI+Performance+Architect;%22Execution+beats+theory.+Always.%22)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,19 +23,15 @@
 
 <br/>
 
-</div>
-
 ---
 
 <br/>
 
-<div align="center">
-
 ### `〔 IDENTITY 〕`
 
-</div>
-
 <br/>
+
+</div>
 
 ```rust
 // maxence.rs — compiled 2026
@@ -68,23 +64,19 @@ impl Developer {
 }
 ```
 
-<br/>
-
 <div align="center">
+
+<br/>
 
 > 13 years old. Building production-grade tools, studying systems programming,  
 > and obsessing over **performance** and **clean architecture**.  
 > My goal isn't to pass exams — **it's to build things that matter.**
-
-</div>
 
 <br/>
 
 ---
 
 <br/>
-
-<div align="center">
 
 ### `〔 TECH STACK 〕`
 
@@ -115,45 +107,43 @@ impl Developer {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)
 
-</div>
-
 <br/>
 
 ---
 
 <br/>
-
-<div align="center">
 
 ### `〔 SKILL MAP — HONEST SELF-ASSESSMENT 〕`
 
-</div>
-
 <br/>
 
+</div>
+
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   Python        ████████░░░░░░░░   Advanced Beginner                   │
-│                 └─ Logic · AI pipelines · Scripting · Data              │
-│                                                                         │
-│   Rust          ████░░░░░░░░░░░░   Beginner — Actively learning         │
-│                 └─ Memory model · Ownership · Systems fundamentals      │
-│                                                                         │
-│   HTML / CSS    █████░░░░░░░░░░░   Familiar                             │
-│                 └─ Structure · Semantic markup · Basic layouts          │
-│                                                                         │
-│   Supabase      ██████░░░░░░░░░░   Intermediate                         │
-│                 └─ Auth · Database · Storage                            │
-│                                                                         │
-│   PostgreSQL    █████░░░░░░░░░░░   Intermediate                         │
-│                 └─ Queries · Schema design                              │
-│                                                                         │
-│   Docker        █████░░░░░░░░░░░   Intermediate                         │
-│                 └─ Containerization · Production environments           │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+  ┌───────────────────────────────────────────────────────────────────────┐
+  │                                                                       │
+  │   Python        ████████░░░░░░░░   Advanced Beginner                 │
+  │                 └─ Logic · AI pipelines · Scripting · Data            │
+  │                                                                       │
+  │   Rust          ████░░░░░░░░░░░░   Beginner — Actively learning       │
+  │                 └─ Memory model · Ownership · Systems fundamentals    │
+  │                                                                       │
+  │   HTML / CSS    █████░░░░░░░░░░░   Familiar                           │
+  │                 └─ Structure · Semantic markup · Basic layouts        │
+  │                                                                       │
+  │   Supabase      ██████░░░░░░░░░░   Intermediate                       │
+  │                 └─ Auth · Database · Storage                          │
+  │                                                                       │
+  │   PostgreSQL    █████░░░░░░░░░░░   Intermediate                       │
+  │                 └─ Queries · Schema design                            │
+  │                                                                       │
+  │   Docker        █████░░░░░░░░░░░   Intermediate                       │
+  │                 └─ Containerization · Production environments         │
+  │                                                                       │
+  └───────────────────────────────────────────────────────────────────────┘
 ```
+
+<div align="center">
 
 <br/>
 
@@ -161,23 +151,17 @@ impl Developer {
 
 <br/>
 
-<div align="center">
-
 ### `〔 FLAGSHIP PROJECT 〕`
-
-</div>
 
 <br/>
 
-<div align="center">
-
 ```
-  ┌───────────────────────────────────────────────────────────┐
-  │                                                           │
-  │   ⚡  Z E N I T H   E N G I N E                           │
-  │       Ultra-Fast Document Indexing Engine                 │
-  │                                                           │
-  └───────────────────────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────────────────────┐
+  │                                                                 │
+  │      ⚡  Z E N I T H   E N G I N E                              │
+  │          Ultra-Fast Document Indexing Engine                    │
+  │                                                                 │
+  └─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -202,59 +186,55 @@ zenith_engine = {
 ![Rust](https://img.shields.io/badge/Rust-Compute_Core-CE422B?style=flat-square&logo=rust&logoColor=white&labelColor=0d1117)&nbsp;
 ![Status](https://img.shields.io/badge/Status-In_Development-f0a500?style=flat-square&labelColor=0d1117)
 
-</div>
-
 <br/>
 
 ---
 
 <br/>
-
-<div align="center">
 
 ### `〔 WHAT SETS ME APART 〕`
 
-</div>
-
 <br/>
 
+</div>
+
 ```
-  ╔═══════════════════════════════════════════════════════════════════╗
-  ║                                                                   ║
-  ║   01 · PRECOCITY                                                  ║
-  ║        Tackling Rust, memory ownership & systems architecture     ║
-  ║        at 13. The curve is steep. I'm climbing anyway.            ║
-  ║                                                                   ║
-  ║   02 · HONESTY                                                    ║
-  ║        I know what I know. I know what I don't.                   ║
-  ║        No inflated skills. No fake seniority.                     ║
-  ║                                                                   ║
-  ║   03 · PRODUCTION MINDSET                                         ║
-  ║        Typed. Documented. Clean. Built to last —                  ║
-  ║        not to impress, but to actually work.                      ║
-  ║                                                                   ║
-  ║   04 · ENTREPRENEURIAL DRIVE                                      ║
-  ║        Solving real performance problems. Not homework.           ║
-  ║        Every project is a product, not an exercise.               ║
-  ║                                                                   ║
-  ╚═══════════════════════════════════════════════════════════════════╝
+  ╔═════════════════════════════════════════════════════════════════════╗
+  ║                                                                     ║
+  ║   01 · PRECOCITY                                                    ║
+  ║        Tackling Rust, memory ownership & systems architecture       ║
+  ║        at 13. The curve is steep. I'm climbing anyway.              ║
+  ║                                                                     ║
+  ║   02 · HONESTY                                                      ║
+  ║        I know what I know. I know what I don't.                     ║
+  ║        No inflated skills. No fake seniority.                       ║
+  ║                                                                     ║
+  ║   03 · PRODUCTION MINDSET                                           ║
+  ║        Typed. Documented. Clean. Built to last —                    ║
+  ║        not to impress, but to actually work.                        ║
+  ║                                                                     ║
+  ║   04 · ENTREPRENEURIAL DRIVE                                        ║
+  ║        Solving real performance problems. Not homework.             ║
+  ║        Every project is a product, not an exercise.                 ║
+  ║                                                                     ║
+  ╚═════════════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
 
 <br/>
 
 ---
 
 <br/>
-
-<div align="center">
 
 ### `〔 CONTACT 〕`
 
 <br/>
 
 ```
-  Open to →   Collaborations · Open source contributions
-              Feedback & mentorship · Technical challenges
+         Open to →   Collaborations · Open source contributions
+                     Feedback & mentorship · Technical challenges
 ```
 
 <br/>
@@ -275,5 +255,7 @@ zenith_engine = {
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maxenceprohub&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
+
+<br/>
 
 </div>
