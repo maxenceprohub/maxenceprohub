@@ -1,69 +1,80 @@
 <div align="center">
 
-# 🌌 Maxence Munoz
-### *Full-Stack Engineer · AI Systems & Infrastructure*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1F6FEB&height=180&section=header&text=Maxence%20Munoz&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://img.shields.io/badge/Focus-High_Performance_Systems-0A192F?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Stack-Rust%20%7C%20Python%20%7C%20Cloud-1F6FEB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Building_Zenith_Engine-FF6A00?style=for-the-badge" />
+### ⚡ Full-Stack Engineer · AI Systems · High Performance
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+High-Performance+Systems;Rust+%7C+Python+%7C+Scalable+Backend;AI+Infrastructure+%26+Data+Pipelines" />
 
 </div>
 
 ---
 
-## 🚀 Overview
+## 🚀 About Me
 
-Engineer focused on **performance-critical systems** and **AI-driven infrastructures**.  
-I design and build scalable architectures where **efficiency, reliability, and clarity** are first-class priorities.
+💡 Engineer focused on **performance-driven systems** and **scalable infrastructures**
+⚙️ I design architectures where **speed, clarity, and reliability** come first
 
-- ⚡ **Specialization:** High-performance data pipelines & backend systems  
-- 🧠 **Approach:** Low-level optimization meets intelligent automation  
-- 🏗️ **Current Work:** Zenith Engine — next-gen data ingestion & processing system  
-- 🎯 **Objective:** Build independent, production-grade SaaS ecosystems  
+🔥 Currently building **Zenith Engine** — a next-generation data ingestion system
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
-| Core Languages | Backend & Infra | Workflow |
-|----------------|----------------|----------|
-| Python · Rust · JavaScript | PostgreSQL · Supabase · Docker · Vercel | Git · Linux · VS Code |
+<img src="https://skillicons.dev/icons?i=python,rust,js,postgres,docker,linux,git,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 Engineering Metrics
+## 📊 Metrics & Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF7B72" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=58A6FF&text_color=C9D1D9" />
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72" />
+<img height="160" src="https://streak-stats.demolab.com?user=TON_PSEUDO&theme=dark&hide_border=true&background=0D1117&ring=1F6FEB&fire=FF7B72&currStreakLabel=C9D1D9" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9" />
 
 </div>
 
 ---
 
-## ⚡ Live Activity
+## ⚡ Current Work
+
+* 🚀 Building **Zenith Engine**
+* ⚙️ Optimizing pipelines with **Rust**
+* 🧩 Designing scalable backend systems
+
+---
+
+## 🌐 Contact
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TON_PSEUDO&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TON_PSEUDO&theme=tokyonight" />
+<a href="mailto:maxencemunozpro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🧩 System Philosophy
+## ⚙️ Philosophy
 
-```text
-Performance > Abstraction
-Clarity > Complexity
-Reliability > Hype
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0A192F&height=120&section=footer" />
+
+</div>
