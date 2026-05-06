@@ -66,8 +66,8 @@ impl Developer {
 
 <br/>
 
-> 13 years old. I build production-oriented tools, study systems programming,  
-> and care deeply about **performance** and **clean architecture**.  
+> 13 years old. I build production-minded tools, study systems programming,  
+> and focus on **performance**, clarity, and **maintainable architecture**.  
 > I focus on building **real-world systems** alongside my studies.
 
 <br/>
@@ -167,6 +167,7 @@ impl Developer {
 ```python
 zenith_engine = {
     "type":         "Document Indexing Engine",
+    "goal":         "Index and query large document sets efficiently",
     "architecture": "Hybrid — Python (API / Logic) + Rust (Compute Core)",
     "features": [
         "Large-scale file scanning",
@@ -198,9 +199,9 @@ zenith_engine = {
 ```
   ╔═════════════════════════════════════════════════════════════════════╗
   ║                                                                     ║
-  ║   01 · EARLY START                                                  ║
-  ║        Learning Rust, memory ownership & systems programming        ║
-  ║        at 13. Slow is smooth, smooth is fast.                       ║
+  ║   01 · SYSTEMS FOCUS EARLY                                         ║
+  ║        Learning low-level concepts (memory, ownership, performance) ║
+  ║        earlier than most typical learning paths.                    ║
   ║                                                                     ║
   ║   02 · HONESTY                                                      ║
   ║        I know what I know. I know what I don't.                     ║
