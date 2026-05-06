@@ -1,19 +1,19 @@
 <div align="center">
-  <h1>🌌 High-Performance Developer & AI Architect</h1>
-  <p><strong>13-year-old builder focused on bridging the gap between high-level AI logic and low-level performance.</strong></p>
+  <h1>🌌 Maxence Munoz</h1>
+  <p><strong>13-year-old Full-Stack Developer | AI Performance & Infrastructure</strong></p>
 
-  <!-- Statut actuel -->
-  <img src="https://img.shields.io/badge/Focus-System_Optimization_%26_AI_Infrastructure-0078D4?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Age-13-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Age" />
+  <img src="https://img.shields.io/badge/Status-Building_Zenith_Engine-orange?style=for-the-badge" alt="Status" />
 </div>
 
 ---
 
-### 🚀 The Mission
-I am an entrepreneur and software engineer driven by **efficiency**. I don't just build applications; I architect systems that are **scalable, memory-safe, and blazingly fast**. My goal is to master the full stack of AI—from GPU-level optimization with Rust to high-level implementation with Python.
+### 🚀 Executive Summary
+Entrepreneur and developer focused on high-performance systems. I bridge the gap between low-level efficiency and high-level AI logic. I don't just write scripts; I architect production-ready environments.
 
-- 🛠️ **Current Project:** Building [Zenith Engine](https://github.com/TON_PSEUDO/zenith-engine) (A hybrid Python/Rust indexing core).
-- 🧠 **Learning Path:** Advanced Memory Safety, Parallel Computing, and RAG Architectures.
-- 🎯 **Mindset:** Obsessed with clean code and production-ready standards.
+- 🛠️ **Current Focus:** Optimizing data ingestion engines with **Python** and **Rust**.
+- 🧠 **Tech Philosophy:** Memory safety, speed, and clean code architecture.
+- 🎯 **Goal:** Building independent SaaS infrastructures and AI-driven tools.
 
 ---
 
@@ -21,42 +21,48 @@ I am an entrepreneur and software engineer driven by **efficiency**. I don't jus
 
 <table align="center">
   <tr>
-    <td align="center" width="150"><strong>Languages</strong></td>
-    <td align="center" width="150"><strong>AI & Data</strong></td>
-    <td align="center" width="150"><strong>Tools</strong></td>
+    <td align="center" width="200"><strong>Languages</strong></td>
+    <td align="center" width="200"><strong>Backend & Cloud</strong></td>
+    <td align="center" width="200"><strong>Tools & Workflow</strong></td>
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,rust,c&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,rust,html,css,js&theme=dark" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,docker,supabase&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=supabase,postgres,docker,vercel&theme=dark" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,linux,bash&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,linux&theme=dark" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Real-Time Performance Metrics
+### 📊 Engineering Metrics
 <div align="center">
+  <!-- Stats de contributions et langages (Remplace TON_PSEUDO par ton pseudo GitHub) -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
 
-### 📈 Roadmap to Independence
-- [x] **Phase 1:** Mastering Pythonic logic and API integration.
-- [ ] **Phase 2:** Offloading critical tasks to Rust for 10x performance.
-- [ ] **Phase 3:** Deploying scalable AI-as-a-Service (SaaS) infrastructures.
-
----
+### 📬 Connect with Me
+I am always open to discussing architecture, performance, or collaboration on ambitious projects.
 
 <div align="center">
-  <p><i>"The best way to predict the future is to build it."</i></p>
-  <a href="https://twitter.com/TON_X_ACCOUNT"><strong>Follow the build on X</strong></a> • 
-  <a href="mailto:TON_EMAIL"><strong>Get in touch</strong></a>
+  <a href="https://discord.com/users/TON_ID_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:maxencemunozpro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/TON_PSEUDO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
+
+<br>
+<p align="center"><i>"Code is poetry, but performance is reality."</i></p>
