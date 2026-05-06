@@ -173,13 +173,7 @@ zenith_engine = {
         "Unstructured data analysis",
         "LLM-ready — designed for RAG pipelines",
     ],
-    # Early benchmarks (in progress — will be updated as the project matures)
-    "benchmarks": {
-        "target_indexing_speed": "100k files in < 10s",
-        "memory_target":         "< 150 MB at scale",
-        "comparison":            "Aiming to match ripgrep-level throughput",
-    },
-    "status": "🔧  Active Development",
+    "status": "🔧  Early Development",
 }
 ```
 
@@ -188,10 +182,6 @@ zenith_engine = {
 ![Python](https://img.shields.io/badge/Python-API_Layer-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-Compute_Core-CE422B?style=flat-square&logo=rust&logoColor=white&labelColor=0d1117)&nbsp;
 ![Status](https://img.shields.io/badge/Status-In_Development-f0a500?style=flat-square&labelColor=0d1117)
-
-<br/>
-
-*Benchmarks and a CLI demo will be published as the project reaches a stable milestone.*
 
 <br/>
 
