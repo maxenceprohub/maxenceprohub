@@ -1,189 +1,257 @@
 <div align="center">
 
-```
-███████╗███████╗███╗   ██╗██╗████████╗██╗  ██╗
-╚══███╔╝██╔════╝████╗  ██║██║╚══██╔══╝██║  ██║
-  ███╔╝ █████╗  ██╔██╗ ██║██║   ██║   ███████║
- ███╔╝  ██╔══╝  ██║╚██╗██║██║   ██║   ██╔══██║
-███████╗███████╗██║ ╚████║██║   ██║   ██║  ██║
-╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
-
-# Maxence Munoz
-### `Full-Stack Developer` · `AI Performance Architect` · `13 y/o`
-
-*"Execution beats theory. Always."*
-
-[![Email](https://img.shields.io/badge/Pro_Email-maxencemunozpro%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:maxencemunozpro@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/MaxenceMunoz)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=140&section=header&text=MAXENCE%20MUNOZ&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
----
+<div align="center">
 
-## `> whoami`
-
-```rust
-struct Developer {
-    name:        &'static str,
-    age:         u8,
-    role:        &'static str,
-    philosophy:  &'static str,
-    focus:       [&'static str; 3],
-}
-
-const MAXENCE: Developer = Developer {
-    name:        "Maxence Munoz",
-    age:         13,
-    role:        "Full-Stack Developer & AI Performance Architect",
-    philosophy:  "Execution beats theory.",
-    focus:       ["Scalability", "Memory Safety", "Raw Speed"],
-};
+```
+  ███╗   ███╗ █████╗ ██╗  ██╗███████╗███╗   ██╗ ██████╗███████╗
+  ████╗ ████║██╔══██╗╚██╗██╔╝██╔════╝████╗  ██║██╔════╝██╔════╝
+  ██╔████╔██║███████║ ╚███╔╝ █████╗  ██╔██╗ ██║██║     █████╗  
+  ██║╚██╔╝██║██╔══██║ ██╔██╗ ██╔══╝  ██║╚██╗██║██║     ██╔══╝  
+  ██║ ╚═╝ ██║██║  ██║██╔╝ ██╗███████╗██║ ╚████║╚██████╗███████╗
+  ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
 ```
 
-> Building production-grade systems while most people my age are still learning syntax.  
-> My goal: escape the traditional school system through tech entrepreneurship and high-performance code mastery.
+**`Full-Stack Developer`** · **`AI Performance Architect`** · **`13 y/o Builder`**
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=%22Execution+beats+theory.+Always.%22;Building+in+public+%7C+Learning+in+private.)](https://git.io/typing-svg)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/-maxencemunozpro%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:maxencemunozpro@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/MaxenceMunoz)
+
+</div>
+
+<br/>
 
 ---
 
-## `> tech_stack --verbose`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" width="25"/> &nbsp;`$ whoami`
+
+```rust
+// maxence.rs — v2026
+
+struct Builder {
+    name:        &'static str,
+    age:         u8,
+    location:    &'static str,
+    role:        &'static str,
+    mission:     &'static str,
+    mindset:     [&'static str; 4],
+}
+
+fn main() {
+    let me = Builder {
+        name:     "Maxence Munoz",
+        age:      13,
+        location: "France 🇫🇷",
+        role:     "Full-Stack Dev · AI Performance Architect",
+        mission:  "Exit the traditional system through code & entrepreneurship.",
+        mindset:  [
+            "Scalability over shortcuts",
+            "Memory safety matters",
+            "Ship real things, not demos",
+            "The grind is the strategy",
+        ],
+    };
+}
+```
+
+> I'm 13. I build production-oriented tools, study systems programming, and care deeply about **performance** and **clean architecture**. My goal isn't to pass exams — it's to build things that matter.
+
+<br/>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"/> &nbsp;`$ tech_stack`
+
+<br/>
 
 <div align="center">
 
-### ◈ Core Languages
+### ◈ &nbsp; Languages
 
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![Rust](https://img.shields.io/badge/Rust-Specializing-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117)
+| Language | Level | Focus |
+|:---:|:---:|:---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **Advanced Beginner** | Business logic · AI scripts · Data manipulation |
+| ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white) | **Beginner** *(learning)* | Memory model · Systems fundamentals · Performance concepts |
 
-### ◈ Web & Frontend
+<br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+### ◈ &nbsp; Web
 
-### ◈ Backend & Cloud
+| Technology | Level | Notes |
+|:---:|:---:|:---|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | **Familiar** | Structure · Semantic markup |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | **Familiar** | Layouts · Basic styling |
+
+<br/>
+
+### ◈ &nbsp; Backend · Cloud · Infra
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)
+![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)
 
-### ◈ Environment & Tools
+<br/>
+
+### ◈ &nbsp; Environment
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)
 
 </div>
 
----
-
-## `> skills --progress`
-
-```
-Python       ████████████████████░░░  Advanced     ███ Business logic · AI scripting · Data pipelines
-Rust         ████████████░░░░░░░░░░░  Specializing ███ Memory mgmt · Heavy computation · Performance cores
-JavaScript   ███████████████░░░░░░░░  Solid        ███ SaaS interfaces · DOM manipulation
-HTML/CSS     ████████████████████░░░  Solid        ███ Responsive layouts · Component design
-PostgreSQL   ███████████████░░░░░░░░  Intermediate ███ Structured queries · Schema design
-Docker       ████████████░░░░░░░░░░░  Intermediate ███ Containerization · Clean prod environments
-```
+<br/>
 
 ---
 
-## `> projects --flagship`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25"/> &nbsp;`$ skills --honest`
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  SKILL MAP — Honest Self-Assessment                          ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  Python      ▓▓▓▓▓▓▓░░░░░░░░  Advanced Beginner             ║
+║              Logic · Scripting · AI pipelines                ║
+║                                                              ║
+║  Rust        ▓▓▓░░░░░░░░░░░░  Beginner — Actively learning  ║
+║              Memory model · Ownership · Systems basics       ║
+║                                                              ║
+║  HTML/CSS    ▓▓▓▓░░░░░░░░░░░  Familiar                      ║
+║              Structure · Basic layouts · Not a pro (yet)     ║
+║                                                              ║
+║  Supabase    ▓▓▓▓▓░░░░░░░░░░  Intermediate                  ║
+║              Auth · DB · Storage                             ║
+║                                                              ║
+║  PostgreSQL  ▓▓▓▓░░░░░░░░░░░  Intermediate                  ║
+║              Queries · Schema design                         ║
+║                                                              ║
+║  Docker      ▓▓▓▓░░░░░░░░░░░  Intermediate                  ║
+║              Containerization · Prod environments            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25"/> &nbsp;`$ projects --flagship`
+
+<br/>
 
 <div align="center">
 
 ```
- ________  _______   ________   ___  _________  ___  ___     
-|\_____  \|\  ___ \ |\   ___  \|\  \|\___   ___\\  \|\  \    
- \|___/  /\ \   __/|\ \  \\ \  \ \  \|___ \  \_\ \  \\\  \   
-     /  / /\ \  \_|/_\ \  \\ \  \ \  \   \ \  \ \ \   __  \  
-    /  /_/__\ \  \_|\ \ \  \\ \  \ \  \   \ \  \ \ \  \ \  \ 
-   |\________\ \_______\ \__\\ \__\ \__\   \ \__\ \ \__\ \__\
-    \|_______|\|_______|\|__| \|__|\|__|    \|__|  \|__|\|__|
-                                                               
-           U L T R A - F A S T   D O C   I N D E X E R
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+   ⚡  Z E N I T H   E N G I N E
+   Ultra-Fast Document Indexing Engine
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ```
 
 </div>
-
-| Property | Details |
-|---|---|
-| **Type** | High-Performance Document Indexing Engine |
-| **Architecture** | Hybrid — Python (API/Logic) + Rust (Compute Core) |
-| **Capabilities** | Massive file scanning · Unstructured data analysis · LLM-ready (RAG) |
-| **Status** | 🔧 Active Development |
-
-**Key design principles:**
-- 🦀 **Rust core** for zero-cost abstractions and memory-safe heavy lifting
-- 🐍 **Python layer** for orchestration, API exposure, and AI integration
-- ⚡ Built for production scale, not toy demos
-- 🤖 LLM integration-ready — designed as a RAG backbone from day one
-
----
-
-## `> github_stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxenceMunoz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceMunoz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MaxenceMunoz&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)
-
-</div>
-
----
-
-## `> differentiators --why_me`
 
 ```python
-differentiators = {
-    "precocity":      "Rust + memory management concepts. At 13.",
-    "rigor":          "Clean, typed, documented, production-oriented code. Always.",
-    "entrepreneur":   "Solving real performance problems. Not school exercises.",
+zenith_engine = {
+    "type":         "Document Indexing Engine",
+    "architecture": "Hybrid Python (API/Logic) + Rust (Compute Core)",
+    "features": [
+        "Massive file scanning at scale",
+        "Unstructured data analysis",
+        "LLM-ready — built for RAG pipelines",
+    ],
+    "philosophy": "Real performance. Real scale. Zero compromises.",
+    "status":     "🔧 Active Development",
 }
-
-for key, value in differentiators.items():
-    print(f"[+] {key.upper():>14} → {value}")
-
-# OUTPUT:
-# [+]     PRECOCITY → Rust + memory management concepts. At 13.
-# [+]        RIGOR → Clean, typed, documented, production-oriented code. Always.
-# [+] ENTREPRENEUR → Solving real performance problems. Not school exercises.
 ```
-
----
-
-## `> contact --open_to`
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   Open to:  Collabs · Freelance · Open Source       │
-│             Technical challenges · Mentorship       │
-│                                                     │
-│   📬  maxencemunozpro@gmail.com                     │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-[![Email Me](https://img.shields.io/badge/Send_a_Message-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=📬&labelColor=161b22)](mailto:maxencemunozpro@gmail.com)
+![Python](https://img.shields.io/badge/Python-API_Layer-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![Rust](https://img.shields.io/badge/Rust-Compute_Core-CE422B?style=flat-square&logo=rust&logoColor=white&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square&labelColor=0d1117)
 
 </div>
 
+<br/>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25"/> &nbsp;`$ diff --what_sets_me_apart`
+
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  01 · PRECOCITY                                                 │
+│       Tackling Rust, memory ownership & systems architecture    │
+│       at 13. The curve is steep. I'm climbing anyway.           │
+│                                                                 │
+│  02 · HONESTY                                                   │
+│       I know what I know. I know what I don't.                  │
+│       No inflated skills. No fake seniority.                    │
+│                                                                 │
+│  03 · PRODUCTION MINDSET                                        │
+│       Typed. Documented. Clean. Built to last —                 │
+│       not to impress, but to actually work.                     │
+│                                                                 │
+│  04 · ENTREPRENEURIAL DRIVE                                     │
+│       Solving real performance problems. Not homework.          │
+│       Every project is a product, not an exercise.              │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="25"/> &nbsp;`$ contact`
+
+<div align="center">
+
+<br/>
+
+```
+  ┌──────────────────────────────────────────────────────┐
+  │                                                      │
+  │   Open to  →  Collaborations                         │
+  │               Open source contributions              │
+  │               Feedback & mentorship                  │
+  │               Interesting technical challenges       │
+  │                                                      │
+  │   📬  maxencemunozpro@gmail.com                      │
+  │                                                      │
+  └──────────────────────────────────────────────────────┘
+```
+
+[![Send Email](https://img.shields.io/badge/Reach_Out-maxencemunozpro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:maxencemunozpro@gmail.com)
+
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
 
-*Built with focus. Shipped with intent.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1f2e,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-`© Maxence Munoz` · `Full-Stack · AI · Rust · Python`
+*13 years old. Full focus. Long game.*
+
+`© Maxence Munoz` &nbsp;·&nbsp; `Python · Rust · Systems · AI`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MaxenceMunoz&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 
