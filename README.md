@@ -3,23 +3,26 @@
 <br/>
 
 ```
-  ███╗   ███╗  █████╗  ██╗  ██╗ ███████╗ ███╗   ██╗  ██████╗ ███████╗
-  ████╗ ████║ ██╔══██╗ ╚██╗██╔╝ ██╔════╝ ████╗  ██║ ██╔════╝ ██╔════╝
-  ██╔████╔██║ ███████║  ╚███╔╝  █████╗   ██╔██╗ ██║ ██║      █████╗  
-  ██║╚██╔╝██║ ██╔══██║  ██╔██╗  ██╔══╝   ██║╚██╗██║ ██║      ██╔══╝  
-  ██║ ╚═╝ ██║ ██║  ██║ ██╔╝ ██╗ ███████╗ ██║ ╚████║ ╚██████╗ ███████╗
-  ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═══╝  ╚═════╝ ╚══════╝
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ░                                                                    ░
+  ░    M  A  X  E  N  C  E                                             ░
+  ░    ─────────────────────────────────────────────────────────────   ░
+  ░    Full-Stack Developer  ·  Systems & AI Enthusiast                ░
+  ░                                                                    ░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=640&height=55&lines=Full-Stack+Developer+%7C+Systems+%26+AI+Enthusiast;Building+high-performance+tools+from+scratch.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&multiline=true&width=600&height=45&lines=Building+high-performance+tools+from+scratch.;Performance+%C2%B7+Clarity+%C2%B7+Maintainable+Architecture.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/-maxencemunozpro%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:maxencemunozpro@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/-maxenceprohub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/maxenceprohub)&nbsp;
-[![Location](https://img.shields.io/badge/-France-0d1117?style=for-the-badge&logo=googlemaps&logoColor=4285F4&labelColor=161b22)](#)
+[![Email](https://img.shields.io/badge/maxencemunozpro%40gmail.com-21262D?style=flat-square&logo=gmail&logoColor=8B949E)](mailto:maxencemunozpro@gmail.com)&ensp;
+[![GitHub](https://img.shields.io/badge/maxenceprohub-21262D?style=flat-square&logo=github&logoColor=8B949E)](https://github.com/maxenceprohub)&ensp;
+[![Location](https://img.shields.io/badge/France-21262D?style=flat-square&logo=googlemaps&logoColor=8B949E)](#)
+
+</div>
 
 <br/>
 
@@ -27,11 +30,9 @@
 
 <br/>
 
-### `〔 IDENTITY 〕`
+<div align="center"><sub>I D E N T I T Y</sub></div>
 
 <br/>
-
-</div>
 
 ```rust
 // maxence.rs — compiled 2026
@@ -70,102 +71,90 @@ impl Developer {
 > and focus on **performance**, clarity, and **maintainable architecture**.  
 > I focus on building **real-world systems** alongside my studies.
 
-<br/>
-
----
-
-<br/>
-
-### `〔 TECH STACK 〕`
-
-<br/>
-
-**— Languages —**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
-
-<br/>
-
-**— Backend · Cloud · Infra —**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)
-
-<br/>
-
-**— Environment —**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)
-
-<br/>
-
----
-
-<br/>
-
-### `〔 SKILL MAP — HONEST SELF-ASSESSMENT 〕`
-
-<br/>
-
 </div>
 
-```
-  ┌───────────────────────────────────────────────────────────────────────┐
-  │                                                                       │
-  │   Python        ████████░░░░░░░░   Advanced Beginner                 │
-  │                 └─ Logic · AI pipelines · Scripting · Data            │
-  │                                                                       │
-  │   Rust          ████░░░░░░░░░░░░   Beginner — Actively learning       │
-  │                 └─ Memory model · Ownership · Systems fundamentals    │
-  │                                                                       │
-  │   HTML / CSS    █████░░░░░░░░░░░   Familiar                           │
-  │                 └─ Structure · Semantic markup · Basic layouts        │
-  │                                                                       │
-  │   Supabase      ██████░░░░░░░░░░   Intermediate                       │
-  │                 └─ Auth · Database · Storage                          │
-  │                                                                       │
-  │   PostgreSQL    █████░░░░░░░░░░░   Intermediate                       │
-  │                 └─ Queries · Schema design                            │
-  │                                                                       │
-  │   Docker        █████░░░░░░░░░░░   Intermediate                       │
-  │                 └─ Containerization · Production environments         │
-  │                                                                       │
-  └───────────────────────────────────────────────────────────────────────┘
-```
+<br/>
+
+---
+
+<br/>
+
+<div align="center"><sub>T E C H &ensp; S T A C K</sub></div>
+
+<br/>
 
 <div align="center">
 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB)&ensp;
+![Rust](https://img.shields.io/badge/Rust-21262D?style=flat-square&logo=rust&logoColor=CE422B)&ensp;
+![HTML5](https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=E34F26)&ensp;
+![CSS3](https://img.shields.io/badge/CSS3-21262D?style=flat-square&logo=css3&logoColor=1572B6)
+
+<br/>
+
+**Backend · Cloud · Infra**
+
+![Supabase](https://img.shields.io/badge/Supabase-21262D?style=flat-square&logo=supabase&logoColor=3ECF8E)&ensp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262D?style=flat-square&logo=postgresql&logoColor=4169E1)&ensp;
+![Docker](https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=2496ED)&ensp;
+![Vercel](https://img.shields.io/badge/Vercel-21262D?style=flat-square&logo=vercel&logoColor=ffffff)
+
+<br/>
+
+**Environment**
+
+![Linux](https://img.shields.io/badge/Linux-21262D?style=flat-square&logo=linux&logoColor=FCC624)&ensp;
+![VS Code](https://img.shields.io/badge/VS_Code-21262D?style=flat-square&logo=visualstudiocode&logoColor=007ACC)&ensp;
+![Git](https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032)&ensp;
+![GitHub](https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=ffffff)
+
+</div>
+
 <br/>
 
 ---
 
 <br/>
 
-### `〔 FLAGSHIP PROJECT 〕`
+<div align="center"><sub>S K I L L &ensp; M A P &ensp; — &ensp; H O N E S T &ensp; S E L F - A S S E S S M E N T</sub></div>
 
 <br/>
 
 ```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                                                                 │
-  │      ⚡  Z E N I T H   E N G I N E                              │
-  │          Ultra-Fast Document Indexing Engine                    │
-  │                                                                 │
-  └─────────────────────────────────────────────────────────────────┘
+  Python        ████████░░░░░░░░   Advanced Beginner
+                └─ Logic · AI pipelines · Scripting · Data
+
+  Rust          ████░░░░░░░░░░░░   Beginner — Actively learning
+                └─ Memory model · Ownership · Systems fundamentals
+
+  HTML / CSS    █████░░░░░░░░░░░   Familiar
+                └─ Structure · Semantic markup · Basic layouts
+
+  Supabase      ██████░░░░░░░░░░   Intermediate
+                └─ Auth · Database · Storage
+
+  PostgreSQL    █████░░░░░░░░░░░   Intermediate
+                └─ Queries · Schema design
+
+  Docker        █████░░░░░░░░░░░   Intermediate
+                └─ Containerization · Production environments
 ```
 
-</div>
+<br/>
+
+---
+
+<br/>
+
+<div align="center"><sub>F L A G S H I P &ensp; P R O J E C T</sub></div>
+
+<br/>
 
 ```python
 zenith_engine = {
+    "name":         "⚡ Zenith Engine — Ultra-Fast Document Indexing Engine",
     "type":         "Document Indexing Engine",
     "goal":         "Index and query large document sets efficiently",
     "architecture": "Hybrid — Python (API / Logic) + Rust (Compute Core)",
@@ -180,65 +169,63 @@ zenith_engine = {
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-API_Layer-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-Compute_Core-CE422B?style=flat-square&logo=rust&logoColor=white&labelColor=0d1117)&nbsp;
-![Status](https://img.shields.io/badge/Status-In_Development-f0a500?style=flat-square&labelColor=0d1117)
-
 <br/>
 
----
-
-<br/>
-
-### `〔 WHAT SETS ME APART 〕`
-
-<br/>
+![Python](https://img.shields.io/badge/Python-API_Layer-21262D?style=flat-square&logo=python&logoColor=3776AB)&ensp;
+![Rust](https://img.shields.io/badge/Rust-Compute_Core-21262D?style=flat-square&logo=rust&logoColor=CE422B)&ensp;
+![Status](https://img.shields.io/badge/Status-In_Development-21262D?style=flat-square&logoColor=f0a500)
 
 </div>
 
+<br/>
+
+---
+
+<br/>
+
+<div align="center"><sub>W H A T &ensp; S E T S &ensp; M E &ensp; A P A R T</sub></div>
+
+<br/>
+
 ```
-  ╔═════════════════════════════════════════════════════════════════════╗
-  ║                                                                     ║
-  ║   01 · SYSTEMS FOCUS EARLY                                         ║
-  ║        Learning low-level concepts (memory, ownership, performance) ║
-  ║        earlier than most typical learning paths.                    ║
-  ║                                                                     ║
-  ║   02 · HONESTY                                                      ║
-  ║        I know what I know. I know what I don't.                     ║
-  ║        No inflated skills. No fake seniority.                       ║
-  ║                                                                     ║
-  ║   03 · PRODUCTION MINDSET                                           ║
-  ║        Typed. Documented. Clean. Built to last —                    ║
-  ║        because maintainability is part of the work.                 ║
-  ║                                                                     ║
-  ║   04 · REAL PROBLEMS                                                ║
-  ║        Interested in performance bottlenecks, indexing at           ║
-  ║        scale, and AI tooling — not just tutorial projects.          ║
-  ║                                                                     ║
-  ╚═════════════════════════════════════════════════════════════════════╝
+  01 · SYSTEMS FOCUS EARLY
+       Learning low-level concepts (memory, ownership, performance)
+       earlier than most typical learning paths.
+
+  02 · HONESTY
+       I know what I know. I know what I don't.
+       No inflated skills. No fake seniority.
+
+  03 · PRODUCTION MINDSET
+       Typed. Documented. Clean. Built to last —
+       because maintainability is part of the work.
+
+  04 · REAL PROBLEMS
+       Interested in performance bottlenecks, indexing at
+       scale, and AI tooling — not just tutorial projects.
 ```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center"><sub>C O N T A C T</sub></div>
+
+<br/>
 
 <div align="center">
 
-<br/>
-
----
-
-<br/>
-
-### `〔 CONTACT 〕`
-
-<br/>
-
 ```
-         Open to →   Collaborations · Open source contributions
-                     Feedback & mentorship · Technical challenges
+  Open to →   Collaborations · Open source contributions
+              Feedback & mentorship · Technical challenges
 ```
 
 <br/>
 
-[![Email](https://img.shields.io/badge/maxencemunozpro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:maxencemunozpro@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/maxenceprohub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/maxenceprohub)
+[![Email](https://img.shields.io/badge/maxencemunozpro%40gmail.com-21262D?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:maxencemunozpro@gmail.com)&ensp;
+[![GitHub](https://img.shields.io/badge/maxenceprohub-21262D?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/maxenceprohub)
 
 <br/>
 
@@ -246,13 +233,15 @@ zenith_engine = {
 
 <br/>
 
-*13 years old · Learning seriously · Building for real.*
-
-`Python · Rust · Systems · AI`
+<sub>13 years old · Learning seriously · Building for real.</sub>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=maxenceprohub&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
+<sub>Python · Rust · Systems · AI</sub>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=maxenceprohub&color=21262d&style=flat-square&label=PROFILE+VIEWS)
 
 <br/>
 
