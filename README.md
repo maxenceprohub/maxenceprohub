@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=640&height=55&lines=Full-Stack+Developer+%7C+Systems+%26+AI+Enthusiast;Building+high-performance+tools+from+scratch.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=55&lines=Systems+%26+AI+Engineering+%7C+Python+%7C+C%2B%2B+incoming;Building+real+tools.+Learning+the+hard+stuff+early.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,8 +40,9 @@ pub struct Developer {
     pub name:     &'static str,      // Maxence Munoz
     pub age:      u8,                // 13
     pub location: &'static str,      // France 🇫🇷
-    pub role:     &'static str,      // Full-Stack Dev · Systems & AI Enthusiast
+    pub role:     &'static str,      // Systems & AI Engineering · Python Developer
     pub focus:    [&'static str; 4],
+    pub target:   [&'static str; 3],
 }
 
 impl Developer {
@@ -50,12 +51,17 @@ impl Developer {
             name:     "Maxence Munoz",
             age:      13,
             location: "France 🇫🇷",
-            role:     "Full-Stack Dev · Systems & AI Enthusiast",
+            role:     "Systems & AI Engineering · Python Developer",
             focus: [
                 "Performance-first design",
-                "Memory safety & ownership",
                 "Building real tools, not demos",
-                "Learning systems programming seriously",
+                "Learning low-level seriously",
+                "AI tooling & indexing pipelines",
+            ],
+            target: [
+                "C++ systems programming",
+                "GPU computing (CUDA)",
+                "High-performance AI inference",
             ],
         }
     }
@@ -67,8 +73,8 @@ impl Developer {
 <br/>
 
 > 13 years old. I build production-minded tools, study systems programming,  
-> and focus on **performance**, clarity, and **maintainable architecture**.  
-> I focus on building **real-world systems** alongside my studies.
+> and aim deep — **GPU computing, C++, AI performance**.  
+> Not tutorial projects. Real systems. Honest skills.
 
 <br/>
 
@@ -76,34 +82,30 @@ impl Developer {
 
 <br/>
 
-### `〔 TECH STACK 〕`
+### `〔 TECH STACK — NOW 〕`
 
 <br/>
 
 **— Languages —**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117)
 
 <br/>
 
-**— Backend · Cloud · Infra —**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)
-
-<br/>
-
-**— Environment —**
+**— Environment & Tools —**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
+
+<br/>
+
+**— Data & Backend —**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117)
 
 <br/>
 
@@ -123,22 +125,51 @@ impl Developer {
   │   Python        ████████░░░░░░░░   Advanced Beginner                 │
   │                 └─ Logic · AI pipelines · Scripting · Data            │
   │                                                                       │
-  │   Rust          ████░░░░░░░░░░░░   Beginner — Actively learning       │
-  │                 └─ Memory model · Ownership · Systems fundamentals    │
+  │   Rust          ██░░░░░░░░░░░░░░   Barely started                    │
+  │                 └─ Reading code · Ownership concept (theory)          │
   │                                                                       │
-  │   HTML / CSS    █████░░░░░░░░░░░   Familiar                           │
-  │                 └─ Structure · Semantic markup · Basic layouts        │
+  │   Git / GitHub  ██████░░░░░░░░░░   Comfortable                       │
+  │                 └─ Commits · Branches · Open source workflow          │
   │                                                                       │
-  │   Supabase      ██████░░░░░░░░░░   Intermediate                       │
-  │                 └─ Auth · Database · Storage                          │
+  │   Linux         █████░░░░░░░░░░░   Familiar                          │
+  │                 └─ CLI · File system · Basic scripting                │
   │                                                                       │
   │   PostgreSQL    █████░░░░░░░░░░░   Intermediate                       │
   │                 └─ Queries · Schema design                            │
   │                                                                       │
-  │   Docker        █████░░░░░░░░░░░   Intermediate                       │
-  │                 └─ Containerization · Production environments         │
-  │                                                                       │
   └───────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<br/>
+
+---
+
+<br/>
+
+### `〔 ROADMAP — WHERE I'M HEADING 〕`
+
+<br/>
+
+</div>
+
+```
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │                                                                     │
+  │   TARGET STACK                          ETA (honest)               │
+  │   ─────────────────────────────────     ──────────────────         │
+  │                                                                     │
+  │   C++          Memory · RAII · STL      [ learning next ]          │
+  │   CUDA C/C++   Kernels · GPU compute    [ after C++ base ]         │
+  │   PyTorch      Training · Inference     [ AI framework ]           │
+  │   CMake        Build system             [ with C++ ]               │
+  │   Nsight       GPU profiling            [ with CUDA ]              │
+  │                                                                     │
+  │   LONG TERM TARGET:                                                 │
+  │   GPU kernel optimization · LLM inference · Systems AI             │
+  │                                                                     │
+  └─────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -174,7 +205,7 @@ zenith_engine = {
         "Unstructured data analysis",
         "LLM-ready — designed for RAG pipelines",
     ],
-    "status": "🔧  Early Development",
+    "status": "🔧  In Development",
 }
 ```
 
@@ -199,21 +230,21 @@ zenith_engine = {
 ```
   ╔═════════════════════════════════════════════════════════════════════╗
   ║                                                                     ║
-  ║   01 · SYSTEMS FOCUS EARLY                                         ║
-  ║        Learning low-level concepts (memory, ownership, performance) ║
-  ║        earlier than most typical learning paths.                    ║
+  ║   01 · SYSTEMS FOCUS — EARLY                                        ║
+  ║        Aiming at GPU computing, C++, and AI performance at 13.      ║
+  ║        Most people start this path years later.                     ║
   ║                                                                     ║
-  ║   02 · HONESTY                                                      ║
-  ║        I know what I know. I know what I don't.                     ║
-  ║        No inflated skills. No fake seniority.                       ║
+  ║   02 · RADICAL HONESTY                                              ║
+  ║        I know exactly what I can and can't do.                      ║
+  ║        No inflated skills. No fake seniority. Ever.                 ║
   ║                                                                     ║
   ║   03 · PRODUCTION MINDSET                                           ║
   ║        Typed. Documented. Clean. Built to last —                    ║
   ║        because maintainability is part of the work.                 ║
   ║                                                                     ║
   ║   04 · REAL PROBLEMS                                                ║
-  ║        Interested in performance bottlenecks, indexing at           ║
-  ║        scale, and AI tooling — not just tutorial projects.          ║
+  ║        Indexing at scale, AI pipelines, performance bottlenecks —   ║
+  ║        not tutorial-sized toy projects.                             ║
   ║                                                                     ║
   ╚═════════════════════════════════════════════════════════════════════╝
 ```
@@ -248,7 +279,7 @@ zenith_engine = {
 
 *13 years old · Learning seriously · Building for real.*
 
-`Python · Rust · Systems · AI`
+`Python · Rust (learning) · Systems · AI Engineering`
 
 <br/>
 
