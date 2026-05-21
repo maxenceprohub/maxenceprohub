@@ -1,271 +1,272 @@
 <div align="center">
 
-# MAXENCE
+<br/>
 
-```txt
-███╗   ███╗ █████╗ ██╗  ██╗███████╗███╗   ██╗ ██████╗███████╗
-████╗ ████║██╔══██╗╚██╗██╔╝██╔════╝████╗  ██║██╔════╝██╔════╝
-██╔████╔██║███████║ ╚███╔╝ █████╗  ██╔██╗ ██║██║     █████╗
-██║╚██╔╝██║██╔══██║ ██╔██╗ ██╔══╝  ██║╚██╗██║██║     ██╔══╝
-██║ ╚═╝ ██║██║  ██║██╔╝ ██╗███████╗██║ ╚████║╚██████╗███████╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│    ███╗   ███╗ █████╗ ██╗  ██╗███████╗███╗   ██╗ ██████╗███████╗  │
+│    ████╗ ████║██╔══██╗╚██╗██╔╝██╔════╝████╗  ██║██╔════╝██╔════╝  │
+│    ██╔████╔██║███████║ ╚███╔╝ █████╗  ██╔██╗ ██║██║     █████╗    │
+│    ██║╚██╔╝██║██╔══██║ ██╔██╗ ██╔══╝  ██║╚██╗██║██║     ██╔══╝    │
+│    ██║ ╚═╝ ██║██║  ██║██╔╝ ██╗███████╗██║ ╚████║╚██████╗███████╗  │
+│    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝  │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
-### Systems & AI Engineering • Python Developer
+<br/>
 
-Building real systems early.  
-Focused on performance, infrastructure and low-level computing.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=50&lines=Systems+%26+AI+Engineering+%7C+Python+Developer;13+yo+%7C+France+%7C+Aiming+for+Big+Tech;Building+real+tools.+Learning+the+hard+stuff+early.)](https://git.io/typing-svg)
 
-<br>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Systems+%26+AI+Engineering;Python+Developer+%7C+Rust+Learner;Building+real+tools+and+infrastructure.)](https://git.io/typing-svg)
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-maxencemunozpro%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:maxencemunozpro@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-maxenceprohub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxenceprohub)
-[![Location](https://img.shields.io/badge/France-161b22?style=for-the-badge&logo=googlemaps&logoColor=4285F4)](#)
+[![Email](https://img.shields.io/badge/maxencemunozpro%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:maxencemunozpro@gmail.com)
+[![GitHub](https://img.shields.io/badge/maxenceprohub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/maxenceprohub)
+[![Location](https://img.shields.io/badge/France-0d1117?style=for-the-badge&logo=googlemaps&logoColor=4285F4&labelColor=161b22)](#)
 
 </div>
 
----
-
-# About
-
-```python
-# maxence.py
-
-class Developer:
-    def __init__(self):
-        self.name = "Maxence Munoz"
-        self.age = 13
-        self.location = "France 🇫🇷"
-
-        self.focus = [
-            "Systems Engineering",
-            "AI Infrastructure",
-            "Performance Engineering",
-        ]
-
-        self.current_stack = [
-            "Python",
-            "Rust",
-            "PostgreSQL",
-            "Linux",
-        ]
-
-        self.goal = (
-            "Build high-performance systems "
-            "for AI and large-scale computing."
-        )
-
-    def philosophy(self):
-        return (
-            "Build real tools. "
-            "Learn deeply. "
-            "Optimize everything."
-        )
-
-
-dev = Developer()
-```
-
-> 13 years old.  
-> Learning systems, AI infrastructure and performance engineering seriously.
+<br/>
 
 ---
 
-# Skill Map
-
-| Technology | Level | Focus |
-|---|---|---|
-| Python | Advanced Beginner | AI pipelines, scripting, tooling |
-| Rust | Learning | Ownership, systems programming |
-| Git / GitHub | Comfortable | Workflow, branching, OSS |
-| Linux CLI | Familiar | Terminal, scripting, filesystem |
-| PostgreSQL | Intermediate | Schema design, querying |
-
----
-
-# Flagship Project
-
-## Zenith Engine
-
-> Ultra-fast document indexing engine.
-
-### Architecture
-
-```txt
-┌─────────────────────┐
-│  Python API Layer   │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│  Rust Compute Core  │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ PostgreSQL Storage  │
-└─────────────────────┘
-```
-
-### Goals
-
-- Large-scale document indexing
-- Fast querying
-- RAG-ready architecture
-- Efficient file scanning
-- High-performance backend design
-
-### Current Status
-
-```txt
-[██████░░░░░░░░░░] In Development
-```
-
-### Stack
-
-<p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</p>
-
----
-
-# Roadmap
-
-## Current Focus
-
-```txt
-Python        ████████░░
-Rust          ██░░░░░░░░
-PostgreSQL    █████░░░░░
-Linux         █████░░░░░
-Git/GitHub    ██████░░░░
-```
-
-## Next
-
-- C++
-- Linear Algebra
-- PyTorch
-- CMake
-- Systems Design
-
-## Long Term
-
-- CUDA / GPU Computing
-- LLM Inference Optimization
-- AI Infrastructure
-- Performance Engineering
-- Big Tech Engineering
-
----
-
-# Philosophy
-
-```txt
-> Real systems over tutorial projects.
-> Depth over hype.
-> Consistency over shortcuts.
-```
-
----
-
-# What Sets Me Apart
-
-## Early Systems Focus
-
-Most people start low-level systems and performance engineering much later.
-
-I started early and intend to compound that advantage over time.
-
-## Radical Honesty
-
-No fake seniority.  
-No inflated claims.  
-I document exactly where I am technically.
-
-## Production Mindset
-
-Typed code.  
-Clean architecture.  
-Maintainable systems.
-
-## Real Problems
-
-Interested in:
-
-- indexing at scale
-- AI pipelines
-- backend performance
-- systems architecture
-- compute optimization
-
----
-
-# Currently Learning
-
-```txt
-Rust ownership model
-Memory management
-Systems fundamentals
-Linear algebra
-AI infrastructure
-Performance optimization
-```
-
----
-
-# GitHub Stats
+<br/>
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=maxenceprohub&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceprohub&layout=compact&theme=github_dark&hide_border=true)
+### `◈  WHO I AM`
 
 </div>
 
----
+<br/>
 
-# Contact
+```rust
+// maxence.rs — compiled 2026
+
+pub struct Developer {
+    pub name:      &'static str,
+    pub age:       u8,
+    pub location:  &'static str,
+    pub focus:     &'static str,
+    pub approach:  &'static str,
+    pub direction: &'static str,
+}
+
+impl Developer {
+    pub fn init() -> Self {
+        Self {
+            name:      "Maxence Munoz",
+            age:       13,
+            location:  "France 🇫🇷",
+            focus:     "Systems & AI Engineering",
+            approach:  "Real tools. Not demos. Not tutorials.",
+            direction: "Big Tech — AI Infrastructure & Performance",
+        }
+    }
+}
+```
+
+<br/>
 
 <div align="center">
 
-Open to:
+> *13 years old. Building seriously. Learning what actually matters.*
+> **Radical honesty about where I am. Zero compromise on where I'm going.**
 
-```txt
-Collaborations
-Open-source contributions
-Technical discussions
-Learning opportunities
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### `◈  SKILL MAP`
+
+</div>
+
+<br/>
+
+```
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║                                                                      ║
+  ║   LANGUAGE / TOOL       LEVEL                    FOCUS               ║
+  ║   ─────────────────     ──────────────────────   ────────────────    ║
+  ║                                                                      ║
+  ║   Python                ████████░░░░░░░░         Advanced Beginner   ║
+  ║                         Logic · AI pipelines · Scripting · Data      ║
+  ║                                                                      ║
+  ║   Rust                  ██░░░░░░░░░░░░░░         Just Started        ║
+  ║                         Ownership theory · Zenith compute core       ║
+  ║                                                                      ║
+  ║   Git / GitHub          ██████░░░░░░░░░░         Comfortable         ║
+  ║                         Daily workflow · Branches · Open source      ║
+  ║                                                                      ║
+  ║   Linux CLI             █████░░░░░░░░░░░         Familiar            ║
+  ║                         Terminal · Filesystem · Basic scripting      ║
+  ║                                                                      ║
+  ║   PostgreSQL            █████░░░░░░░░░░░         Intermediate        ║
+  ║                         Queries · Schema design · Supabase           ║
+  ║                                                                      ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<br>
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-maxencemunozpro%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:maxencemunozpro@gmail.com)
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-maxenceprohub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxenceprohub)
+<br/>
 
-<br>
+<div align="center">
+
+### `◈  FLAGSHIP PROJECT`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║                                                                  ║
+  ║        ⚡  Z E N I T H   E N G I N E                            ║
+  ║            Ultra-Fast Document Indexing Engine                   ║
+  ║                                                                  ║
+  ║   ┌──────────────┬──────────────────────────────────────────┐   ║
+  ║   │ Architecture │  Python (API Layer) + Rust (Core)        │   ║
+  ║   ├──────────────┼──────────────────────────────────────────┤   ║
+  ║   │ Goal         │  Index & query large document sets fast  │   ║
+  ║   ├──────────────┼──────────────────────────────────────────┤   ║
+  ║   │ Features     │  Large-scale file scanning               │   ║
+  ║   │              │  Unstructured data analysis              │   ║
+  ║   │              │  LLM-ready — built for RAG pipelines     │   ║
+  ║   ├──────────────┼──────────────────────────────────────────┤   ║
+  ║   │ Status       │  🔧  In Development                      │   ║
+  ║   └──────────────┴──────────────────────────────────────────┘   ║
+  ║                                                                  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-API_Layer-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![Rust](https://img.shields.io/badge/Rust-Compute_Core-CE422B?style=flat-square&logo=rust&logoColor=white&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Storage-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-In_Development-f0a500?style=flat-square&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### `◈  ROADMAP`
+
+</div>
+
+<br/>
+
+```
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │                                                                     │
+  │       NOW                  NEXT                  LONG TERM          │
+  │       ─────────────────    ─────────────────     ──────────────     │
+  │                                                                     │
+  │   ▸  Python   ████████░░   ▸  C++        ░░░░   ▸  CUDA / GPU      │
+  │   ▸  Git      ██████░░░░   ▸  Linear Alg ░░░░   ▸  LLM Inference   │
+  │   ▸  Postgres █████░░░░░   ▸  PyTorch    ░░░░   ▸  AI Perf Eng.    │
+  │   ▸  Linux    █████░░░░░   ▸  CMake      ░░░░   ▸  Big Tech        │
+  │   ▸  Rust  †  ██░░░░░░░░                                            │
+  │                                                                     │
+  │   †  Learning ownership & systems fundamentals                      │
+  │                                                                     │
+  └─────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### `◈  WHAT SETS ME APART`
+
+</div>
+
+<br/>
+
+```
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║                                                                      ║
+  ║  ▸ 01  EARLY SYSTEMS FOCUS                                          ║
+  ║        Targeting GPU computing and C++ at 13. Most people start     ║
+  ║        this path years later. The head start compounds.             ║
+  ║                                                                      ║
+  ║  ▸ 02  RADICAL HONESTY                                              ║
+  ║        I know exactly what I know — and what I don't.               ║
+  ║        No inflated skills. No fake seniority. Ever.                 ║
+  ║                                                                      ║
+  ║  ▸ 03  PRODUCTION MINDSET                                           ║
+  ║        Typed. Documented. Clean. Built to last —                    ║
+  ║        because maintainability is part of the work.                 ║
+  ║                                                                      ║
+  ║  ▸ 04  REAL PROBLEMS                                                ║
+  ║        Indexing at scale, AI pipelines, performance bottlenecks.    ║
+  ║        No tutorial projects. Real systems.                          ║
+  ║                                                                      ║
+  ╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### `◈  CONTACT`
+
+<br/>
+
+```
+  Open to →   Collaborations  ·  Open source contributions
+              Feedback & mentorship  ·  Technical challenges
+```
+
+<br/>
+
+[![Email](https://img.shields.io/badge/maxencemunozpro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:maxencemunozpro@gmail.com)
+[![GitHub](https://img.shields.io/badge/maxenceprohub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/maxenceprohub)
+
+<br/>
+
+---
+
+<br/>
+
+*13 years old · Learning seriously · Building for real · Aiming high.*
+
+`Python · Rust (learning) · Systems · AI Engineering`
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maxenceprohub&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 
-</div>
-
----
-
-<div align="center">
-
-### Python • Rust • Systems • AI Engineering
-
-Building seriously. Learning deeply. Aiming high.
+<br/>
 
 </div>
