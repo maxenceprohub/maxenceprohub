@@ -41,30 +41,33 @@
 
 <br/>
 
-```rust
-// maxence.rs — compiled 2026
+```python
+# maxence.py — interpreted 2026
 
-pub struct Developer {
-    pub name:      &'static str,
-    pub age:       u8,
-    pub location:  &'static str,
-    pub focus:     &'static str,
-    pub approach:  &'static str,
-    pub direction: &'static str,
-}
+class Developer:
+    def __init__(self):
+        self.name = "Maxence Munoz"
+        self.age = 13
+        self.location = "France 🇫🇷"
+        self.focus = "Systems & AI Engineering"
+        self.approach = "Real tools. Not demos. Not tutorials."
+        self.direction = "Big Tech — AI Infrastructure & Performance"
 
-impl Developer {
-    pub fn init() -> Self {
-        Self {
-            name:      "Maxence Munoz",
-            age:       13,
-            location:  "France 🇫🇷",
-            focus:     "Systems & AI Engineering",
-            approach:  "Real tools. Not demos. Not tutorials.",
-            direction: "Big Tech — AI Infrastructure & Performance",
-        }
-    }
-}
+    def __repr__(self):
+        return f"""
+Developer(
+    name      = "{self.name}",
+    age       = {self.age},
+    location  = "{self.location}",
+    focus     = "{self.focus}",
+    approach  = "{self.approach}",
+    direction = "{self.direction}"
+)
+"""
+
+
+dev = Developer()
+print(dev)
 ```
 
 <br/>
