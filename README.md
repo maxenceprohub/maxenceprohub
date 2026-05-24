@@ -1,43 +1,33 @@
 <div align="center">
 
-<br/>
+<pre>
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│      ███╗   ███╗ █████╗ ██╗  ██╗███████╗███╗   ██╗ ██████╗███████╗   │
+│      ████╗ ████║██╔══██╗╚██╗██╔╝██╔════╝████╗  ██║██╔════╝██╔════╝   │
+│      ██╔████╔██║███████║ ╚███╔╝ █████╗  ██╔██╗ ██║██║     █████╗     │
+│      ██║╚██╔╝██║██╔══██║ ██╔██╗ ██╔══╝  ██║╚██╗██║██║     ██╔══╝     │
+│      ██║ ╚═╝ ██║██║  ██║██╔╝ ██╗███████╗██║ ╚████║╚██████╗███████╗   │
+│      ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝   │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+</pre>
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│    ███╗   ███╗ █████╗ ██╗  ██╗███████╗███╗   ██╗ ██████╗███████╗  │
-│    ████╗ ████║██╔══██╗╚██╗██╔╝██╔════╝████╗  ██║██╔════╝██╔════╝  │
-│    ██╔████╔██║███████║ ╚███╔╝ █████╗  ██╔██╗ ██║██║     █████╗    │
-│    ██║╚██╔╝██║██╔══██║ ██╔██╗ ██╔══╝  ██║╚██╗██║██║     ██╔══╝    │
-│    ██║ ╚═╝ ██║██║  ██║██╔╝ ██╗███████╗██║ ╚████║╚██████╗███████╗  │
-│    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝  │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=13&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=50&lines=Systems+%26+AI+Engineering+|+Python+Developer;13+yo+|+France+|+Aiming+for+Big+Tech.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=50&lines=Systems+%26+AI+Engineering+%7C+Python+Developer;13+yo+%7C+France+%7C+Aiming+for+Big+Tech)
 
 [![Email](https://img.shields.io/badge/maxencemunozpro%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:maxencemunozpro@gmail.com)
 [![GitHub](https://img.shields.io/badge/maxenceprohub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/maxenceprohub)
-[![Location](https://img.shields.io/badge/France-0d1117?style=for-the-badge&logo=googlemaps&logoColor=4285F4&labelColor=161b22)](#)
+[![Location](https://img.shields.io/badge/France-0d1117?style=for-the-badge&logo=googlemaps&logoColor=4285F4&labelColor=161b22)](https://github.com/maxenceprohub)
 
 </div>
-
-<br/>
 
 ---
 
-<br/>
-
 <div align="center">
 
-### `◈  WHO I AM`
+### ◈ WHO I AM
 
 </div>
-
-<br/>
 
 ```rust
 // maxence.rs — compiled 2026
@@ -69,8 +59,8 @@ impl Developer {
 
 <div align="center">
 
-> *13 years old. Building seriously. Learning what actually matters.*
-> **Radical honesty about where I am. Zero compromise on where I'm going.**
+"13 years old. Building seriously. Learning what actually matters.
+Radical honesty about where I am. Zero compromise on where I'm going."
 
 </div>
 
