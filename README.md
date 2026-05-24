@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=13&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=50&lines=Systems+%26+AI+Engineering+|+Python+Developer;13+yo+France+Aiming+for+Big+Tech.)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=13&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=50&lines=Systems+%26+AI+Engineering+|+Python+Developer;13+yo+|+France+|+Aiming+for+Big+Tech.)
 
 [![Email](https://img.shields.io/badge/maxencemunozpro%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:maxencemunozpro@gmail.com)
 [![GitHub](https://img.shields.io/badge/maxenceprohub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/maxenceprohub)
