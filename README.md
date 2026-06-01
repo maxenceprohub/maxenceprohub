@@ -30,16 +30,17 @@
 </div>
 
 ```python
-# maxence.py
 
-developer = {
-    "name": "Maxence Munoz",
-    "age": 13,
-    "location": "France 🇫🇷",
-    "focus": "Systems & AI Engineering",
-    "approach": "Real tools. Not demos. Not tutorials.",
-    "direction": "Big Tech — AI Infrastructure & Performance",
-}
+class Developer:
+    name = "Maxence Munoz"
+    age = 13
+    location = "France 🇫🇷"
+    focus = "Systems & AI Engineering"
+    approach = "Real tools. Not demos. Not tutorials."
+    direction = "Big Tech — AI Infrastructure & Performance"
+
+
+dev = Developer()
 ```
 
 <br/>
