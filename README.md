@@ -29,29 +29,16 @@
 
 </div>
 
-```rust
-// maxence.rs — compiled 2026
+```python
+# maxence.py
 
-pub struct Developer {
-    pub name:      &'static str,
-    pub age:       u8,
-    pub location:  &'static str,
-    pub focus:     &'static str,
-    pub approach:  &'static str,
-    pub direction: &'static str,
-}
-
-impl Developer {
-    pub fn init() -> Self {
-        Self {
-            name:      "Maxence Munoz",
-            age:       13,
-            location:  "France 🇫🇷",
-            focus:     "Systems & AI Engineering",
-            approach:  "Real tools. Not demos. Not tutorials.",
-            direction: "Big Tech — AI Infrastructure & Performance",
-        }
-    }
+developer = {
+    "name": "Maxence Munoz",
+    "age": 13,
+    "location": "France 🇫🇷",
+    "focus": "Systems & AI Engineering",
+    "approach": "Real tools. Not demos. Not tutorials.",
+    "direction": "Big Tech — AI Infrastructure & Performance",
 }
 ```
 
