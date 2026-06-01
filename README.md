@@ -30,7 +30,6 @@
 </div>
 
 ```python
-
 class Developer:
     name = "Maxence Munoz"
     age = 13
